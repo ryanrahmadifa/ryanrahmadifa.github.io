@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A growing collection of ryan's projects.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [work, fun, computer vision, natural language processing, general adversarial networks, reinforcement learning]
 horizontal: false
 ---
 
