@@ -1,18 +1,18 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: CV-FacialVerification
+description: PyTorch, OpenCV
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: computer vision
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Using the LFW dataset containing 13000 face photographs, built a face verification system with Tensorflow based on the model proposed in the paper "FaceNet: A Unified Embedding for Face Recognition and Clustering" by researchers from Google Inc. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Implemented a sequence of inception layers consisting of three 2D convolutional layers each, all of which are based on the model proposed from the paper. 
+
+Implemented a model trained on personal face photographs to a camera using OpenCV and tested real-time face verification with 100% precision and 80% recall scores.
 
     ---
     layout: page
