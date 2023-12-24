@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Experienced on working cross‑functionally as a Business Inteligence & Analytics intern for Asia’s giant Aquaculture technology startup, eFishery. 
+Ryan is experienced on working cross‑functionally as a Business Inteligence & Analytics intern for Asia’s giant Aquaculture technology startup, eFishery. 
 
 Actively studying resources online regarding machine learning, looking forward to work on projects on the subject of computer vision, natural language processing, and other deep learning concepts. 
 
