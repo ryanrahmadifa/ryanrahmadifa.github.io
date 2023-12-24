@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ryanrahmadifa
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - ryanrahmadifa/NLP-MarketResearch
+  - ryanrahmadifa/GAN-ImageGeneration
+  - ryanrahmadifa/CV-FacialVerification
+  - ryanrahmadifa/CV-ActionRecognition
+  - ryanrahmadifa/DS-CreditRiskModelling
