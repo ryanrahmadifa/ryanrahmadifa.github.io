@@ -19,8 +19,8 @@
         - Probability Theory, Industrial Statistics
         - title: Operations Research
           contents:
-            - Mixed Integer Linear Programming, Duality Theory, Transportation Problems, Assignment Problems
-            - Dynamic Programming, Network Flows, Markov Decision Problems, and Metaheuristics
+            - Mixed Integer Linear Programming, Duality Theory, Transportation Problems, Assignment Problems.
+            - Dynamic Programming, Network Flows, Markov Decision Problems, and Metaheuristics.
     - title: High School Diploma
       institution: SMA Negeri 8 Jakarta
       year: 2021
@@ -31,35 +31,29 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Data Scientist
+      institution: IDX Partners x Rakamin Academy
+      year: Jul. - Aug. 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Conducted the business understanding process towards the credit card & payment industry, followed by exploratory data analysis
+        - title: Performed machine learning modelling and evaluation
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Random Forest Classification, K-Nearest Neighbor, Gradient Boosting, Naive Bayes, and Artificial Neural Network (ANN) algorithms.
+            - Evaluation via confusion matrices and F2 Score towards the accuracy.
+    - title: Business Intelligence & Analytics
+      institution: eFishery
+      year: Sep. - Dec. 
+      2022
       description:
-        - Description 1.
-        - Description 2.
+        - Designed, delivered, and maintained dashboards towards important metrics for the product team daily through Metabase
+        - Performed data extraction, transformation, and loading for the data pipeline that included AppSheet API, Google Sheets, and Metabase
+        - Maintained an intense communcation cross‑functionally with other departments to deliver ad hoc requests timely
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: TETRIS Program Scholarship Awardee
+      institution: DQLab
+      year: Jul. - Sep. 2022
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+        - Used Python to perform descriptive analytics, web scraping using BeautifulSoup and Selenium; data processing and cleaning using pandas; visualizations using matplotlib and plotly; and deployed the analytics report as an interactive website with streamlit.
 
 - title: Open Source Projects
   type: time_table
