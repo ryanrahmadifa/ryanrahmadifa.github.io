@@ -42,8 +42,7 @@
             - Evaluation via confusion matrices and F2 Score towards the accuracy.
     - title: Business Intelligence & Analytics
       institution: eFishery
-      year: Sep. - Dec. 
-      2022
+      year: Sep. - Dec. 2022
       description:
         - Designed, delivered, and maintained dashboards towards important metrics for the product team daily through Metabase
         - Performed data extraction, transformation, and loading for the data pipeline that included AppSheet API, Google Sheets, and Metabase
