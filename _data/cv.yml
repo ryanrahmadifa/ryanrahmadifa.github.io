@@ -54,37 +54,49 @@
       description:
         - Used Python to perform descriptive analytics, web scraping using BeautifulSoup and Selenium; data processing and cleaning using pandas; visualizations using matplotlib and plotly; and deployed the analytics report as an interactive website with streamlit.
 
-- title: Open Source Projects
+- title: Personal Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/ryanrahmadifa/GAN-ImageGeneration">GAN-ImageGeneration</a>
+      year: Aug. 2023
+      description: Paper implementation of deep learning through a Deep Convolutional General Adversarial Network for image generation.
+    - title: <a href="https://github.com/ryanrahmadifa/CV-ActionRecognition">CV-ActionRecognition</a>
+      year: Jul. 2023
+      description: Real-time motion tracking that recognizes action via LSTM networks and maps it into mouse and keyboard controls for computer devices.
+    - title: <a href="https://github.com/ryanrahmadifa/CV-EmotionDetection">CV-EmotionDetection</a>
+      year: Jul. 2023
+      description: Real-time face tracking that recognizes facial emotions via CNN and classifies them into a category.
+      
 
-- title: Honors and Awards
+- title: Certifications and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Deep Learning Specialization, Deeplearning.AI | Coursera 
+        - Machine Learning Operations (MLOps) Specialization, Deeplearning.AI | Coursera
+        - Advanced Google Data Analytics Professional Certification, Google | Coursera
+    - year: 2022
       items: 
-        - Max Planck Medal
+        - Machine Learning Specialization, Deeplearning.AI | Stanford University | Coursera
+        - Google Data Analytics Professional Certification, Google | Coursera
+        - Bronze Medalist of HackBiz (Hackathon x Business Case Competition) 2022, UGM
+        - Semi‑Finalist of Gadjah Mada Business Case Competition 2022, UGM
+        - Top Achiever of Data Analytics TETRIS Program, DQLab
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Deep Learning
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Reinforcement learning for dynamic environments
+        - Explainable artificial intelligence
+    - title: Systems Engineering
       items:
-        - Description 1.
-        - Description 2.
+        - Modelling for complex systems
+        - Integrating interdisciplinary fields
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Video editing, explore mathematics, and watch documentaries
