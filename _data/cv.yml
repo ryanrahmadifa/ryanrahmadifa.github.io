@@ -2,31 +2,31 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Muhammad Ryanrahmadifa
     - name: Date of Birth
-      value: 14th March 1879
+      value: 09 July 2003
     - name: Languages
-      value: English, German
+      value: English, Bahasa Indonesia
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor's Degree
+      institution: Bandung Institute of Technology
+      year: 2021 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Concepts of Systems Thinking
+        - Probability Theory, Industrial Statistics
+        - title: Operations Research
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Mixed Integer Linear Programming, Duality Theory, Transportation Problems, Assignment Problems
+            - Dynamic Programming, Network Flows, Markov Decision Problems, and Metaheuristics
+    - title: High School Diploma
+      institution: SMA Negeri 8 Jakarta
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
+        - Head of the Legislative Commission, Class Representatives
+        - Vice Head of Regeneration, Class Representatives
 
 - title: Experience
   type: time_table
