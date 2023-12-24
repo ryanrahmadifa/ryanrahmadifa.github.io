@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: profile
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Understanding proceeds from the whole to its parts. - Russell L. Ackoff
 
 profile:
   align: right
