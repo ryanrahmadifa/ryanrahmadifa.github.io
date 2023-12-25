@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Image Generation
+description: Paper implementation of deep learning through a Deep Convolutional General Adversarial Network for image generation.
 img:
 importance: 3
-category: fun
+category: general adversarial networks
 ---
 
 Every project has a beautiful feature showcase page.

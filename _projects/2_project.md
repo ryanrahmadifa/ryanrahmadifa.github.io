@@ -1,6 +1,6 @@
 ---
 layout: page
-title: facial verification
+title: Facial Verification
 description: PyTorch, OpenCV
 img: assets/img/3.jpg
 importance: 2
