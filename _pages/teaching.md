@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: academics
 description: Ryan's academic performance and teaching experience as a laboratory and teaching assistant.
 nav: true
 nav_order: 5
