@@ -1,7 +1,7 @@
 ---
 layout: page
-title: database systems thesis assistant
-description: assisted two groups of four students in constructing their thesis
+title: database systems
+description: assisted two groups of four students in constructing their final thesis in constructing database systems and data mining
 img:
 importance: 1
 category: laboratory assistant
