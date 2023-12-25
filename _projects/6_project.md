@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: racing simulation
+description: amazon ...
 img:
 importance: 4
-category: work
+category: reinforcement learning
 ---
 
 Every project has a beautiful feature showcase page.

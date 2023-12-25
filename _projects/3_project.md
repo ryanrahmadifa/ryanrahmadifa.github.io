@@ -3,7 +3,6 @@ layout: page
 title: Emotion Detection
 description: TensorFlow, OpenCV
 img: assets/img/7.jpg
-redirect: https://unsplash.com
 importance: 3
 category: computer vision
 ---
