@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: academics
+title: teaching
 description: Ryan's teaching experience as a laboratory and teaching assistant for the Laboratory of Information Systems and Decision, Bandung Institute of Technology (LSIK ITB).
 nav: true
 nav_order: 5
