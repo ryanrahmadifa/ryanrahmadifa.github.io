@@ -2,7 +2,7 @@
 layout: page
 title: Action Recognition
 description: Mediapipe, Tensorflow, OpenCV, PyAutoGUI
-img: assets/img/12.jpg
+img: assets/img/cv-action-recognition-network.png
 importance: 1
 category: computer vision
 related_publications: 
@@ -23,7 +23,7 @@ The libraries used are Pandas, NumPy, Mediapipe, Tensorflow, and OpenCV
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="https://www.youtube.com/watch?v=zUQLOD_fYF0" class="img-fluid rounded z-depth-1" %}
+        {% include video.html path="assets/video/cv-action-recognition-demo.mp4" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
 </div>
 <div class="caption">
@@ -32,9 +32,9 @@ The libraries used are Pandas, NumPy, Mediapipe, Tensorflow, and OpenCV
 
 
 
-<div class="row">
+<div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/cv-action-recognition-network.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/cv-action-recognition-network.png" title="LSTM Neural Network Architecture" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
