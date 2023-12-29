@@ -17,38 +17,26 @@ activation function on the last layer for mapping the last 30 frames of data gat
 
 Accuracy tests using confusion matrix stated that the model had 95% accuracy when trained on and given 30 frames of data for every prediction.
 
-Integrated the model with OpenCV and PyAutoGUI which enables enabling/disabling mouse cursor movement controls using action recognition and
-landmark tracking which translates the index finger joint to mouse cursor movements
+Integrated the model with OpenCV and PyAutoGUI which enables enabling/disabling mouse cursor movement controls using action recognition and landmark tracking which translates the index finger joint to mouse cursor movements. 
+
+The libraries used are Pandas, NumPy, Mediapipe, Tensorflow, and OpenCV
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include video.html path="https://youtu.be/zUQLOD_fYF0" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    The libraries used are Pandas, NumPy, Mediapipe, Tensorflow, and OpenCV
+    Play this video to see the demonstration of the application! The model is predicting in real-time and translating the movements into actions based on the classification being done: The movement, clicking, and scrolling of the mouse is being controlled with the actions being predicted by the model.
 </div>
 
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
 
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/cv-action-recognition-network.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    This is the neural network's architecture that is being trained on the data, it consists of four LSTM layers, three fully connected layers, and a softmax function at the end to map the data into the predicted action.
 </div>
