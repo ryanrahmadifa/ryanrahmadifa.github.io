@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of ryan's projects.
+description: A growing collection of ryan's, mostly centered around deep learning and automated systems, projects. For the detailed pieces of code created for the project, please visit the *repository* tab of this website!
 nav: true
 nav_order: 2
 display_categories: [reinforcement learning, computer vision, natural language processing, general adversarial networks]
