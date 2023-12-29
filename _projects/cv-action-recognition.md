@@ -21,9 +21,9 @@ Integrated the model with OpenCV and PyAutoGUI which enables enabling/disabling 
 
 The libraries used are Pandas, NumPy, Mediapipe, Tensorflow, and OpenCV
 
-<div class="row">
+<div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="https://youtu.be/zUQLOD_fYF0" class="img-fluid rounded z-depth-1" %}
+        {% include video.html path="https://www.youtube.com/watch?v=zUQLOD_fYF0" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -32,7 +32,7 @@ The libraries used are Pandas, NumPy, Mediapipe, Tensorflow, and OpenCV
 
 
 
-<div class="row justify-content-sm-center">
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/cv-action-recognition-network.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
