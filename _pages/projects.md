@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of ryan's projects.
 nav: true
 nav_order: 2
-display_categories: [computer vision, natural language processing, general adversarial networks, reinforcement learning]
+display_categories: [reinforcement learning, computer vision, natural language processing, general adversarial networks]
 horizontal: false
 ---
 
