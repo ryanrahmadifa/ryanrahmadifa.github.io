@@ -4,10 +4,10 @@ title: Image Generation
 description: TensorFlow, TensorBoard
 img: assets/img/gan-image-generation-thumbnail.jpg
 importance: 3
-category: general adversarial networks
+category: generative adversarial networks
 ---
 
-Paper implementation of deep learning through a Deep Convolutional General Adversarial Network for image generation: Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks. 
+Paper implementation of deep learning through a Deep Convolutional Generative Adversarial Network for image generation: Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks. 
 
 Trained and implemented on the LFW Dataset, a dataset containing hundreds of thousands of celebrity faces, the agent will then recreate fake pictures similar to the real photographs.
 
