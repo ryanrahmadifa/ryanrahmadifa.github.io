@@ -2,7 +2,7 @@
 layout: page
 title: Image Generation
 description: TensorFlow, TensorBoard
-img: assets/img/gan-image-generation-architecture.jpg
+img: assets/img/gan-image-generation-thumbnail.jpg
 importance: 3
 category: general adversarial networks
 ---
