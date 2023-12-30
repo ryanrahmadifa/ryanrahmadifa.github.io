@@ -1,10 +1,10 @@
 ---
 layout: post
-title: a post with jupyter notebook
-date: 2023-07-04 08:57:00-0400
-description: an example of a blog post with jupyter notebook
+title: Reinforcement Learning for Inventory Optimization with Deep Q-Network
+date: 2023-12-30 08:57:00-0400
+description: For the love of industrial engineering and deep learning
 tags: formatting jupyter
-categories: sample-posts
+categories: reinforcement-learning
 giscus_comments: true
 related_posts: false
 ---
