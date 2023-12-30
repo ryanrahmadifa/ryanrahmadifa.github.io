@@ -1,6 +1,6 @@
 ---
 layout: post
-title: a post with jupyter notebook
+title: rl for inventory optimization
 date: 2023-07-04 08:57:00-0400
 description: for the love of industrial engineering
 tags: reinforcement-learning
