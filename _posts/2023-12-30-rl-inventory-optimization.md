@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reinforcement Learning for Inventory Optimization with Deep Q-Network
-date: 2023-12-30 08:00:00
+date: 2023-12-30 08:00:00-0400
 description: for my love of industrial engineering and deep learning
 tags: reinforcement-learning
 categories: sample-post
