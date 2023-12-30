@@ -1,9 +1,9 @@
 ---
 layout: post
-title: deep q network for inventory optimization
-date: 2023-12-30 08:57:00-0400
-description: for the love of industrial engineering and deep learning
-tags: reinforcement-learning
+title: a post with jupyter notebook
+date: 2023-07-04 08:57:00-0400
+description: an example of a blog post with jupyter notebook
+tags: formatting jupyter
 categories: project
 giscus_comments: true
 related_posts: false
