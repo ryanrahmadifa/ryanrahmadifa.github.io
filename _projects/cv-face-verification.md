@@ -5,7 +5,7 @@ description: PyTorch, OpenCV
 img: assets/img/cv-face-verification-network.png
 importance: 2
 category: computer vision
-giscus_comments: true
+giscus_comments: false
 ---
 
 Using the LFW dataset containing 13000 face photographs, built a face verification system with Tensorflow based on the model proposed in the paper "FaceNet: A Unified Embedding for Face Recognition and Clustering" by researchers from Google Inc. 
