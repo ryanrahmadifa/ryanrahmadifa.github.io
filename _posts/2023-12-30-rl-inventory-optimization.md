@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Reinforcement Learning for Inventory Optimization with Deep Q-Network
-date: 2023-12-30 08:00:00-0400
-description: for my love of industrial engineering and deep learning
-tags: reinforcement-learning
-categories: sample-post
+title: a post with jupyter notebook
+date: 2023-07-04 08:57:00-0400
+description: an example of a blog post with jupyter notebook
+tags: formatting jupyter
+categories: sample-posts
 giscus_comments: true
+related_posts: false
 ---
 
 # Inventory Optimization
