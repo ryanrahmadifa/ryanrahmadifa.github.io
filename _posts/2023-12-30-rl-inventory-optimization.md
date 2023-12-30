@@ -1,6 +1,6 @@
 ---
 layout: post
-title: rl for inventory optimization
+title: inventory optimization w/ deep q-learning
 date: 2023-07-04 08:57:00-0400
 description: for the love of industrial engineering
 tags: reinforcement-learning
