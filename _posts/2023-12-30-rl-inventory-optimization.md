@@ -1,6 +1,6 @@
 ---
 layout: post
-title: deep q-network for inventory optimization
+title: deep q network for inventory optimization
 date: 2023-12-30 08:57:00-0400
 description: for the love of industrial engineering and deep learning
 tags: reinforcement-learning
