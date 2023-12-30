@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Muhammad Ryanrahmadifa # the website title (if blank, full name will be used instead)
+title: # the website title (if blank, full name will be used instead)
 first_name: Muhammad
 middle_name: Ryanrahmadifa
 last_name: (Ryan)
