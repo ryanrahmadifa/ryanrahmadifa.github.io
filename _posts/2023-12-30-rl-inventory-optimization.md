@@ -4,7 +4,7 @@ title: Reinforcement Learning for Inventory Optimization with Deep Q-Network
 date: 2023-12-30 08:57:00-0400
 description: For the love of industrial engineering and deep learning
 tags: formatting jupyter
-categories: reinforcement-learning
+categories: sample-posts
 giscus_comments: true
 related_posts: false
 ---
