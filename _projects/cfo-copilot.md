@@ -2,7 +2,7 @@
 layout: page
 title: CFO Copilot
 description: AI-Powered Personal Finance Management Platform
-img: assets/img/cfo-copilot.jpg
+img: assets/img/cfo-copilot.png
 importance: 1
 category: "Financial Technology"
 ---
@@ -11,7 +11,7 @@ An AI-powered financial advisory platform using multi-agent orchestration to ana
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/cfo-copilot.jpg" title="Multi-Agent AI Architecture" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/cfo-copilot.png" title="Multi-Agent AI Architecture" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

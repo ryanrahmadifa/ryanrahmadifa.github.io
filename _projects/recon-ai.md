@@ -2,7 +2,7 @@
 layout: page
 title: Recon-AI
 description: Enterprise-Grade Bank Reconciliation Engine with Tri-Layer AI Processing
-img: assets/img/recon-ai.jpg
+img: assets/img/recon-ai.png
 importance: 1
 category: "Financial Technology"
 ---
@@ -11,7 +11,7 @@ A financial reconciliation platform combining mathematical algorithms with AI to
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/recon-ai.jpg" title="High-Performance Computing Architecture" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/recon-ai.png" title="High-Performance Computing Architecture" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

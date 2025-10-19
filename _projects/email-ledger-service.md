@@ -2,7 +2,7 @@
 layout: page
 title: Email Ledger Service
 description: AI-Powered Email-to-Financial-Entry Automation
-img: assets/img/email-ledger-service.jpg
+img: assets/img/email-ledger-service.png
 importance: 1
 category: "AI Services"
 ---
@@ -11,7 +11,7 @@ An automated email processing system that transforms receipts and invoices into 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/email-ledger-service.jpg" title="Intelligent Document Processing System" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/email-ledger-service.png" title="Intelligent Document Processing System" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

@@ -2,7 +2,7 @@
 layout: page
 title: Enterprise Financial Operations Platform
 description: Comprehensive Financial Management Web Suite with AI Capabilities
-img: assets/img/cfo-frontend.jpg
+img: assets/img/cfo-frontend.png
 importance: 1
 category: "AI Services"
 ---
@@ -11,7 +11,7 @@ A unified React-based financial management platform integrating AI-powered chat,
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/cfo-frontend.jpg" title="Financial Operations Platform Architecture" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/cfo-frontend.png" title="Financial Operations Platform Architecture" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

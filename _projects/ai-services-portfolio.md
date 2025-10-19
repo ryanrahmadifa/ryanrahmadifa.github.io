@@ -2,7 +2,7 @@
 layout: page
 title: AI Services Portfolio
 description: Automated Business Communication & Invoice Generation Platform
-img: assets/img/ai-services-portfolio.jpg
+img: assets/img/ai-services-portfolio.png
 importance: 1
 category: "AI Services"
 ---
@@ -11,7 +11,7 @@ An automation platform integrating WhatsApp, email, and web interfaces with AI-p
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ai-services-portfolio.jpg" title="Enterprise Automation Architecture" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/ai-services-portfolio.png" title="Enterprise Automation Architecture" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
