@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AI Services Portfolio
+title: InvoiceAI
 description: Automated Business Communication & Invoice Generation Platform
 img: assets/img/ai-services-portfolio.png
 importance: 1
