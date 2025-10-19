@@ -7,7 +7,7 @@ importance: 1
 category: "AI Services"
 ---
 
-Comprehensive enterprise automation platform that orchestrates complex multi-channel business communication workflows through intelligent AI-driven document processing. This system integrates WhatsApp, email, and web interfaces with automated document generation, creating seamless end-to-end business automation that scales across enterprise environments.
+An automation platform integrating WhatsApp, email, and web interfaces with AI-powered invoice generation. The system processes business communications and generates PDF invoices through orchestrated workflows across multiple channels.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
@@ -15,15 +15,27 @@ Comprehensive enterprise automation platform that orchestrates complex multi-cha
     </div>
 </div>
 <div class="caption">
-    Complex microservices architecture with AI-powered automation across multiple domains.
+    Microservices architecture with AI-powered automation and multi-channel communication.
 </div>
 
-**Key Architectural Achievements** achieved scalable microservices handling concurrent automated workflows, while advanced AI integration enables intelligent document processing through sophisticated language model orchestration.
+## Technical Stack
+- **Backend**: Python FastAPI, Flask with Gunicorn WSGI
+- **AI/ML**: LangChain, OpenAI API
+- **Workflow**: n8n automation platform
+- **Communication**: WAHA (WhatsApp), Gmail API
+- **Infrastructure**: Docker Compose, Nginx reverse proxy, Redis
 
-**Technical Excellence** is demonstrated through production-ready deployments featuring event-driven architecture for high-volume operations, comprehensive security protocols, and performance optimization achieving sub-2-second response times for document generation.
+## Key Features
+**Invoice Generation**: Template-based PDF creation with <2-second response times and multi-currency support
 
-**Full-Stack Integration** creates seamless connections between AI processing pipelines, backend orchestration systems, and responsive user interfaces. The end-to-end pipeline enables real-time AI inference with immediate user feedback through orchestrated workflows that span from AI models to frontend presentation layers.
+**WhatsApp Integration**: WhatsApp integration via WAHA with automated responses and webhook-driven workflows
 
-**Google Cloud Platform Expertise** encompasses Cloud Run deployments for auto-scaling containerized services, sophisticated Cloud Build CI/CD pipelines for AI model management, and secure Cloud Registry integration. OAuth2 authentication and Firebase integration complete the enterprise-grade infrastructure stack with real-time synchronization and advanced security measures.
+**N8N Workflow Engine**: Visual workflow design with conditional logic and scheduled task automation
 
-**Professional Development Focus:** Mastering full-stack AI integration, cloud-native architecture, and end-to-end platform orchestration that combines AI engineering excellence with backend resilience and frontend sophistication.
+**Multi-Environment Deployment**: Docker containerization with environment-specific configurations and shared network architecture
+
+## Performance Metrics
+- 2 minutes onboarding-to-first-invoice time
+- Context-aware AI response, with past data retention
+- 24/7 automated customer service availability
+- Zero manual errors in document generation

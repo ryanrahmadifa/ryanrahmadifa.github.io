@@ -7,7 +7,7 @@ importance: 1
 category: "Financial Technology"
 ---
 
-Advanced conversational AI platform that showcases expertise in multi-agent systems, natural language processing, and intelligent data analysis through comprehensive workflow orchestration. This analytics engine processes diverse data sources and delivers actionable insights through dynamic AI-driven conversational interfaces.
+An AI-powered financial advisory platform using multi-agent orchestration to analyze financial documents and generate actionable insights. The system processes natural language queries, executes dynamic Python code for analysis, and delivers HTML infographics and React-compatible Plotly charts through conversational interfaces.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
@@ -15,17 +15,39 @@ Advanced conversational AI platform that showcases expertise in multi-agent syst
     </div>
 </div>
 <div class="caption">
-    Advanced AI orchestration platform with semantic processing and dynamic analysis capabilities.
+    Multi-agent AI orchestration with semantic processing and dynamic analysis capabilities.
 </div>
 
-**Multi-Agent System Design**features complex workflow orchestration with advanced vector embedding technologies for document understanding, secure code execution environments, and intelligent similarity-based caching systems that optimize performance across analytical workloads.
+## Technical Stack
+- **Backend**: FastAPI with async/await, Cloud SQL PostgreSQL
+- **AI/ML**: OpenAI GPT-4o, LangGraph for multi-agent workflows
+- **Vector Database**: ChromaDB with text-embedding-3-large (1024 dimensions)
+- **Frontend**: React 18 with TypeScript, Vite, Tailwind CSS
+- **Visualization**: Plotly for interactive charts
+- **Infrastructure**: Google Cloud Run, Cloud Storage, Vercel
 
-**Advanced AI Capabilities** include sophisticated natural language processing for contextual conversational interfaces, comprehensive multi-format data ingestion systems with automatic validation, interactive visualization engines, and persistent session management for context-aware interactions.
+## Multi-Agent Architecture
+**LangGraph Workflow**: Five specialized agents orchestrate query processing:
+- Query Analyzer: Intent classification and routing
+- Data Retriever: Semantic search across financial documents
+- Code Generator: Dynamic Python code creation for analysis
+- Code Executor: Sandboxed execution environment
+- Response Formatter: Output formatting with visualizations
 
-**Full-Stack Development Excellence** combines modern React frontend engineering with high-performance backend API services, optimized data persistence systems, and scalable cloud infrastructure with advanced monitoring and asynchronous processing capabilities.
+**Smart Caching**: Similarity-based response caching with 10-minute TTL and 85% threshold, achieving 65% cache hit rate
 
-**Full-Stack Integration** enables seamless AI agent orchestration with backend processing and database systems, creating direct connections between conversational AI interfaces and real-time user experiences through comprehensive data visualization pipelines.
+## Key Features
+**Natural Language Processing**: Conversational interface for financial queries with intent classification and entity extraction
 
-**Google Cloud Platform Expertise** utilizes Cloud Run for auto-scaling conversational AI deployments, Cloud Build for CI/CD automation of AI agent configurations, and secure Cloud Registry management. OAuth2 implementation and Firebase real-time synchronization complete the enterprise infrastructure stack.
+**Document Processing**: Multi-format ingestion (PDF, Excel, CSV, JSON) with OCR fallback for scanned documents
 
-**Technical Skills Displayed:** Expert proficiency in AI/ML engineering, full-stack development with deep AI integration, cloud architecture, and user experience design for creating intelligent, conversational automation systems.
+**Dynamic Code Execution**: Secure sandboxed Python environment (pandas, numpy, plotly) with AST validation and memory/time limits
+
+**Interactive Visualizations**: Generates HTML infographics and React-compatible Plotly charts embedded directly in conversational responses
+
+**Subscription Management**: AI-powered recognition of subscription renewals with lifecycle monitoring and cost analysis
+
+## Performance Metrics
+- <1 seconds for similarity-based cached queries, <30 seconds for new deep analyses
+- 50+ simultaneous users supported with horizontal scaling
+- 95%+ code execution and user query success rate

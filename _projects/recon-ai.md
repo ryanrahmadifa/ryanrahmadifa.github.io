@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Recon-AI
-description: Enterprise-Grade Bank Reconciliation Engine with Dual-Layer AI Processing
+description: Enterprise-Grade Bank Reconciliation Engine with Tri-Layer AI Processing
 img: assets/img/recon-ai.jpg
 importance: 1
 category: "Financial Technology"
 ---
 
-Advanced high-performance data processing platform that demonstrates mastery in algorithmic optimization, distributed computing, and AI/ML integration. Sophisticated reconciliation algorithms handle complex matching problems at enterprise scale while maintaining sub-second latency through intelligent computational strategies.
+A financial reconciliation platform combining mathematical algorithms with AI to match bank transactions with ledger entries. The system uses a tri-layer approach: proprietary weighted scoring for initial matching, followed by GPT-4 for complex cases requiring contextual understanding, and a conflict resolution layer for single vs. split payment scenarios.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
@@ -15,17 +15,28 @@ Advanced high-performance data processing platform that demonstrates mastery in 
     </div>
 </div>
 <div class="caption">
-    Advanced distributed processing system with algorithmic optimization and AI-powered decision making.
+    Tri-layer processing with mathematical scoring, AI-powered decision making, and conflict resolution.
 </div>
 
-**Algorithmic Innovation** encompasses multi-factor weighted scoring systems, AI-powered pattern recognition, intelligent batching strategies, and memory-efficient processing that scales to handle massive enterprise datasets with stringent latency requirements.
+## Technical Stack
+- **Backend**: FastAPI with async/await patterns, async AI API calls
+- **Vector Store**: ChromaDB with text-embedding-3-large (1024 dimensions)
+- **Database**: PostgreSQL Cloud SQL (production), SQLite (development)
+- **Cache**: Async SQLite with WAL mode, 10-minute TTL
+- **Infrastructure**: Google Cloud Run with auto-scaling
 
-**Distributed Systems Engineering** delivers high-performance computing with parallel processing architectures achieving 10,000+ operations per minute, coupled with advanced resource optimization, event-driven architectures, and comprehensive fault-tolerance mechanisms.
+## Key Features
+**Split Payment Detection**: Many-to-many matching for complex scenarios (one bank transaction to multiple ledger entries, or vice versa)
 
-**Technical Architecture Excellence** features cloud-native containerized applications with semantic search capabilities, real-time processing optimization, and observable systems ensuring operational excellence through intelligent pre-computation and comprehensive monitoring.
+**Intelligent Batching**: Concurrent processing with controlled parallelism, reducing LLM API costs by 80% while maintaining accuracy
 
-**Full-Stack Integration** creates seamless connections between machine learning models and distributed computing infrastructure, enabling direct algorithmic output visualization on frontend dashboards for immediate business intelligence and decision-making capabilities.
+**Conflict Resolution**: LLM-arbitrated matching with evidence-based decisions and complete audit trails for compliance
 
-**Google Cloud Platform Expertise** leverages Cloud Run for auto-scaling AI workloads, Cloud Build for automated model deployment pipelines, and secure Cloud Registry management. OAuth2 integration and Firebase services complete the infrastructure with real-time synchronization and enterprise-grade security.
+**Performance Optimization**: Memory-efficient processing handles 100k+ transactions with parallel execution and multi-level caching
 
-**Skills Demonstration:** Mastering distributed systems design, algorithmic optimization, machine learning integration, full-stack AI implementation, and cloud architecture for delivering high-performance computing applications.
+## Performance Metrics
+- 95% overall reconciliation accuracy
+- 80% reduction in LLM API costs through intelligent batching
+- 1,000 transactions/minute processing speed
+- 100+ concurrent reconciliation jobs supported
+- Sub-512MB memory usage for typical scenarios
