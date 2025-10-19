@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of ryan's, mostly centered around deep learning and automated systems, projects. For the detailed pieces of code created for the project, please visit the "repositories" tab of this website!
 nav: true
 nav_order: 2
-display_categories: ["AI Services", "Financial Technology", reinforcement learning, computer vision, natural language processing, generative adversarial networks]
+display_categories: [QuantOps, FinOps, reinforcement learning, computer vision, natural language processing, generative adversarial networks]
 horizontal: false
 ---
 

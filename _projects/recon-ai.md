@@ -4,7 +4,7 @@ title: Recon-AI
 description: Enterprise-Grade Bank Reconciliation Engine with Tri-Layer AI Processing
 img: assets/img/recon-ai.png
 importance: 1
-category: "Financial Technology"
+category: "FinOps"
 ---
 
 A financial reconciliation platform combining mathematical algorithms with AI to match bank transactions with ledger entries. The system uses a tri-layer approach: proprietary weighted scoring for initial matching, followed by GPT-4 for complex cases requiring contextual understanding, and a conflict resolution layer for single vs. split payment scenarios.

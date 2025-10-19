@@ -4,7 +4,7 @@ title: Email Ledger Service
 description: AI-Powered Email-to-Financial-Entry Automation
 img: assets/img/email-ledger-service.png
 importance: 1
-category: "AI Services"
+category: "FinOps"
 ---
 
 An automated email processing system that transforms receipts and invoices into categorized financial entries using vision AI models. The platform achieves zero-touch expense tracking by automatically processing email attachments, classifying transactions, and creating ledger entries.

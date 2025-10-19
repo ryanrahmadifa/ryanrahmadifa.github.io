@@ -4,7 +4,7 @@ title: AI Services Portfolio
 description: Automated Business Communication & Invoice Generation Platform
 img: assets/img/ai-services-portfolio.png
 importance: 1
-category: "AI Services"
+category: "FinOps"
 ---
 
 An automation platform integrating WhatsApp, email, and web interfaces with AI-powered invoice generation. The system processes business communications and generates PDF invoices through orchestrated workflows across multiple channels.

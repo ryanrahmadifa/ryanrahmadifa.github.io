@@ -4,7 +4,7 @@ title: Enterprise Financial Operations Platform
 description: Comprehensive Financial Management Web Suite with AI Capabilities
 img: assets/img/cfo-frontend.png
 importance: 1
-category: "AI Services"
+category: "FinOps"
 ---
 
 A unified React-based financial management platform integrating AI-powered chat, bank reconciliation, financial calendars, and automated ledger processing. The application provides seamless access to multiple financial workflows through a single interface.

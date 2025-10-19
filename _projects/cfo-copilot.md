@@ -4,7 +4,7 @@ title: CFO Copilot
 description: AI-Powered Personal Finance Management Platform
 img: assets/img/cfo-copilot.png
 importance: 1
-category: "Financial Technology"
+category: "FinOps"
 ---
 
 An AI-powered financial advisory platform using multi-agent orchestration to analyze financial documents and generate actionable insights. The system processes natural language queries, executes dynamic Python code for analysis, and delivers HTML infographics and React-compatible Plotly charts through conversational interfaces.
