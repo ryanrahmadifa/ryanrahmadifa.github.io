@@ -9,6 +9,15 @@ category: "QuantOps"
 
 An advanced deep reinforcement learning trading system using Double Deep Q-Networks (DDQN) with multi-modal data processing for automated trading decisions. The system combines price data, technical indicators, and news sentiment analysis to execute trades across multiple assets with realistic transaction costs and risk management.
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/quantops-drl.png" title="Deep RL Trading Architecture" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Accumulated returns of the deployed agents for Singapore Brent Futures.
+</div>
+
 ## Architecture
 - **Environment**: Custom Gymnasium-based trading environments with realistic market dynamics
 - **Agent**: DDQN with experience replay and target networks for stable learning

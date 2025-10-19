@@ -7,7 +7,16 @@ importance: 1
 category: "QuantOps"
 ---
 
-A full-stack NLP application that classifies market sentiment and categorizes financial news using DistilRoBERTa transformer models. The system processes news headlines to predict sentiment categories (Bearish, Neutral, Bullish) with confidence scores, enabling data-driven trading decisions through real-time sentiment analysis.
+A full-stack NLP application that classifies market sentiment and categorizes financial news using DistilRoBERTa transformer models. The system processes news headlines to predict sentiment categories (Bearish, Neutral, Bullish) with confidence scores, enabling data-driven trading decisions through real-time semantic analysis.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/quantops-trend.png" title="Market Semantic Analysis Results" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Results of semantic analysis on news regarding geopolitical risk, oil, and gas.
+</div>
 
 ## Architecture
 - **Backend**: Spring Boot (Java) with Gradle for REST API services

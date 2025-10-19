@@ -9,6 +9,15 @@ category: "QuantOps"
 
 A machine learning application for forecasting commodity and financial asset prices using state-of-the-art neural time series models with automated hyperparameter optimization. The system supports both univariate and multivariate forecasting with integrated technical analysis and calendar feature engineering.
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/quantops-forecast.png" title="Neural Price Forecasting Results" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Multi-model time series forecasting for crude oil price.
+</div>
+
 ## Architecture
 - Modular ML pipeline with separation of data ingestion, transformation, and prediction
 - Automated experiment tracking with model versioning

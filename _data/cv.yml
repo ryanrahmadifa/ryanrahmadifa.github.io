@@ -3,24 +3,29 @@
   contents:
     - name: Full Name
       value: Muhammad Ryanrahmadifa
-    - name: Date of Birth
-      value: 09 July 2003
+    - name: Address
+      value: Jl. Cipinang Jaya JJ No.6, 002/007, South Cipinang Besar, Jatinegara, East Jakarta, DKI Jakarta
+    - name: Phone
+      value: (+62) 813-1430-0200
+    - name: Email
+      value: mryanrahmadifa@gmail.com
+    - name: GitHub
+      value: ryanrahmadifa
+    - name: LinkedIn
+      value: ryanrahmadifa
     - name: Languages
       value: English, Bahasa Indonesia
 
 - title: Education
   type: time_table
   contents:
-    - title: Bachelor's Degree
+    - title: Bachelor's Degree in Industrial Engineering
       institution: Bandung Institute of Technology
-      year: 2021 - present
+      year: Aug. 2021 – Apr. 2025
       description:
-        - Concepts of Systems Thinking
-        - Probability Theory, Industrial Statistics
-        - title: Operations Research
-          contents:
-            - Mixed Integer Linear Programming, Duality Theory, Transportation Problems, Assignment Problems.
-            - Dynamic Programming, Network Flows, Markov Decision Problems, and Metaheuristics.
+        - Maintained 3.61 GPA.
+        - Chosen to be one of 5 students as an interviewee for IABEE Accreditation Program.
+        - Laboratory assistant for Laboratory of Information System and Decision (LSIK) ITB.
     - title: High School Diploma
       institution: SMA Negeri 8 Jakarta
       year: 2021
@@ -28,26 +33,90 @@
         - Head of the Legislative Commission, Class Representatives
         - Vice Head of Regeneration, Class Representatives
 
+- title: Research Projects
+  type: time_table
+  contents:
+    - title: Path Planning Optimization for Robotic Mobile Fulfillment Systems using Multi-agent Deep Reinforcement Learning
+      institution: Bandung Institute of Technology & Center for Internet of Things Innovation – National Taiwan University of Science and Technology (CITI NTUST)
+      year: Dec. 2024 – Aug. 2025
+      description:
+        - Through the existing NetLogo simulation environment, translate the states to meaningful observations using Python frameworks.
+        - Aimed at reducing traffic congestion, enable robots to make collectively optimal decisions through communicating action values.
+        - Based on multi-agent reinforcement learning (RL), construct a reward function based on order throughput traffic congestion.
+        - Evaluate the proposed model by comparing it with baseline models: A* & Dijkstra algorithms with Manhattan distance.
+    - title: Multi-agent Deep Reinforcement Learning for Crude Oil Futures Trading
+      institution: Undergraduate Final Project, Bandung Institute of Technology
+      year: Sep. 2024 – Apr. 2025
+      description:
+        - Developing domain knowledge on crude oil futures trading as a need to correctly create an accurate simulation environment.
+        - Created an RL environment consisting of fundamental, technical, and candle stick data for the price of crude oil futures.
+        - Constructed a hierarchical multi-agent deep RL model with different trading strategies based on A2C, PPO, and DDQN.
+        - Evaluate the trading agents using economic metrics such as Sharpe ratio and compare it with conventional trading methods.
+    - title: Few-shot Learning for Semantics Analysis on Crude Oil News
+      institution: PT Pertamina Patra Niaga
+      year: May. 2024 - Aug. 2024
+      description:
+        - Thoroughly studied the crude oil import, export, and transaction market to gain a deep understanding towards the energy industry.
+        - Collected data from industry experts on the semantics of geopolitical news towards the movement of crude oil price.
+        - Performed few-shot learning using textual entailment and intermediate training to develop a semantic analysis model.
+        - Successfully trained the model with a validation accuracy of 0.931, constructed an architecture for the end-to-end system.
+
 - title: Experience
   type: time_table
   contents:
-    - title: Data Scientist
+    - title: Founding Artificial Intelligence (AI) Engineer
+      institution: Earlybird AI
+      year: Aug. 2025 - present
+      description:
+        - Accelerating bookkeeping by developing agentic solutions for ~80% faster bank reconciliation for mobile app users.
+        - Developed a novel tri-layer agentic bank reconciliation algorithm, achieving 95%+ accuracy on single and split payments cases.
+        - Created a zero-touch expense and income tracking by processing emails, data extraction and classification, and ledger entry creation.
+        - Developed a workflow for automating invoice creation to <1 minute by integrating n8n, Python, Supabase, JS, WAHA, and GenAI.
+        - Maintaining multiple key GCP projects (networks, instances, registries), for end-to-end deployment of AI solutions.
+        - Presented core AI solutions to VC directors, demonstrating real value and garnering positive feedback for future product development.
+    - title: Research Intern
+      institution: Center for Internet of Things Innovation – National Taiwan University of Science and Technology (CITI NTUST)
+      year: Apr. 2025 – Aug. 2025
+      description:
+        - Assisting Masters students in Python and technical understanding of robotic mobile fulfillment system for smart warehouses.
+        - Performing research on multi-robot traffic congestion avoidance using multi-agent deep reinforcement learning, aimed at increasing energy efficiency while maintaining throughput for warehouse order-picking.
+    - title: Artificial Intelligence & Machine Learning (AI/ML) Engineer
+      institution: Bioma AI
+      year: Aug. 2024 - present
+      description:
+        - Through the AWS cloud service, developed a single-asset quantitative trading algorithm via deep RL, using gymnasium.
+        - Developed an Agentic Framework using Langchain, Langgraph, and LlamaIndex for RAG and developing a Website Builder Agent.
+        - Deployed 3 LLM Solutions on AWS, using FastAPI for API endpoints, with PostgreSQL and PGVector.
+    - title: Artificial Intelligence & Machine Learning (AI/ML) Engineer Intern
+      institution: Bioma AI
+      year: Mar. 2024 - Jun. 2024
+      description:
+        - Developed a translation system by Optical Character Recognition (OCR) and Large Language Models (LLMs) with 90% word accuracy.
+        - Developed a document verification system for due diligence using YOLOv8, OCR, and LLMs for 20 unique documents.
+        - Conducted research on state-of-the-art speech recognition models by reviewing literatures on open-source models.
+    - title: Machine Learning Engineer Intern
+      institution: PT Pertamina Patra Niaga
+      year: May. 2024 - Aug. 2024
+      description:
+        - Interviewed key stakeholders and industry experts to construct an automated system for processing data into PowerBI visualizations.
+        - Acted as a consultant for AI/ML matters, held discussions with international news providers such as Bloomberg and S&P Global.
+        - Evaluated the clustering algorithm for oil and gas export regions, aimed at minimizing the total distance traveled for transportation.
+    - title: Business Intelligence & Analytics Intern
+      institution: eFishery
+      year: Sep. 2022 - Dec. 2022
+      description:
+        - Designed, delivered, and maintained dashboards towards important metrics for the product team daily through Metabase.
+        - Created ERD for company's production database, and conducted SQL querying in order to answer key business questions, successfully implemented complex yet simplified queries that resulted in 10x faster load time.
+        - Performed data extraction, transformation, and loading for AppSheet API, Google Sheets, and Metabase.
+        - Maintained communications cross-functionally with other departments to deliver ad hoc requests timely.
+    - title: Data Scientist Intern
       institution: IDX Partners x Rakamin Academy
       year: Jul. - Aug. 2023
       description:
-        - Conducted the business understanding process towards the credit card & payment industry, followed by exploratory data analysis
-        - title: Performed machine learning modelling and evaluation
-          contents:
-            - Random Forest Classification, K-Nearest Neighbor, Gradient Boosting, Naive Bayes, and Artificial Neural Network (ANN) algorithms.
-            - Evaluation via confusion matrices and F2 Score towards the accuracy.
-    - title: Business Intelligence & Analytics
-      institution: eFishery
-      year: Sep. - Dec. 2022
-      description:
-        - Designed, delivered, and maintained dashboards towards important metrics for the product team daily through Metabase
-        - Performed data extraction, transformation, and loading for the data pipeline that included AppSheet API, Google Sheets, and Metabase
-        - Maintained an intense communcation cross‑functionally with other departments to deliver ad hoc requests timely
-
+        - Conducted the business understanding process towards the credit card & payment industry, followed by exploratory data analysis.
+        - Performed machine learning modelling and evaluation.
+        - Used Random Forest Classification, K-Nearest Neighbor, Gradient Boosting, Naive Bayes, and Artificial Neural Network (ANN) algorithms.
+        - Evaluation via confusion matrices and F2 Score towards the accuracy.
     - title: TETRIS Program Scholarship Awardee
       institution: DQLab
       year: Jul. - Sep. 2022
@@ -57,20 +126,43 @@
 - title: Personal Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/ryanrahmadifa/GAN-ImageGeneration">GAN-ImageGeneration</a>
+    - title: Action Recognition (Computer Vision)
+      institution: <a href="https://github.com/ryanrahmadifa/CV-ActionRecognition">CV-ActionRecognition</a>
+      year: Jul. 2023
+      description:
+        - Mapped a set of landmarks consisting of 30 frames of movement for eight different actions. Used mediapipe for the tracking motions of palm joints, the landmarks were converted into NumPy arrays which will be used for training the model.
+        - Built a model using Tensorflow, based on Long short-term memory (LSTM) layers with ReLU activation functions and dense layers with a softmax activation function on the last layer for mapping the last 30 frames of data gathered to one of eight actions.
+        - Confusion matrix stated that the model had 95% accuracy after training, by being given 30 frames of data for every prediction.
+    - title: Inventory Optimization (Reinforcement Learning)
+      institution: <a href="https://github.com/ryanrahmadifa/RL-Inventory-Optimization">RL-Inventory-Optimization</a>
+      year: Dec. 2023
+      description:
+        - Initiated an environment simulating an inventory problem for a product with 1 year worth of historical daily demand data.
+        - Formulated the Markov Decision Process of the, continued with creating the mathematical model of the objective function.
+        - Trained an agent with Deep Q-Learning that outperforms the classic inventory policy by 18% by testing the two policies a dataset containing 100, randomly generated, 364-days historical demand data.
+    - title: Automated Market Research System (Natural Language Processing)
+      institution: <a href="https://github.com/ryanrahmadifa/NLP-MarketResearch">NLP-MarketResearch</a>
+      year: Feb. 2024
+      description:
+        - Submission for the Industrial Engineering Competition (IECOM) 2023 essay competition with the topic of researching the Electric Vehicle (EV) market on Mobility as a Service (MaaS) in Indonesia, studying 20+ literatures on EVs and MaaS as scientific backing.
+        - Performed web scraping towards Google News and Google Play Store review data from the web by Selenium and BeautifulSoup followed by machine translation with deep-translator for translating data based on Bahasa Indonesia to English.
+        - Topic modeling with BERTopic towards Google News and Google Play Store review data to extract the main ideas of both data.
+        - Performed sentiment analysis with BERT for gauging receptiveness from the government and the large public towards EVs and idea generation through GPT-3.5 subject to all the previous data for contextual alternatives on business strategies for MaaS.
+    - title: GAN Image Generation
+      institution: <a href="https://github.com/ryanrahmadifa/GAN-ImageGeneration">GAN-ImageGeneration</a>
       year: Aug. 2023
       description: Paper implementation of deep learning through a Deep Convolutional General Adversarial Network for image generation.
-    - title: <a href="https://github.com/ryanrahmadifa/CV-ActionRecognition">CV-ActionRecognition</a>
-      year: Jul. 2023
-      description: Real-time motion tracking that recognizes action via LSTM networks and maps it into mouse and keyboard controls for computer devices.
-    - title: <a href="https://github.com/ryanrahmadifa/CV-EmotionDetection">CV-EmotionDetection</a>
+    - title: Emotion Detection (Computer Vision)
+      institution: <a href="https://github.com/ryanrahmadifa/CV-EmotionDetection">CV-EmotionDetection</a>
       year: Jul. 2023
       description: Real-time face tracking that recognizes facial emotions via CNN and classifies them into a category.
-      
 
 - title: Certifications and Awards
   type: time_table
   contents:
+    - year: 2024
+      items:
+        - Silver Medalist of Industrial Engineering Competition (IECOM), ITB
     - year: 2023
       items: 
         - Deep Learning Specialization, Deeplearning.AI | Coursera 
